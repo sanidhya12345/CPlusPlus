@@ -1,0 +1,22 @@
+Introduction:
+This is one of the approaches which can be used to solve a problem in optimal time. First, we’ll understand every aspect of this approach and would later discuss a very common problem for a better understanding.
+
+What is the two pointer approach?
+As the name suggests, a two-pointer approach uses two-pointers to find the answer to a problem in the optimal time. When the given data is present in a linear form i.e. in terms of an array, vector, linked list, etc we can use this approach.
+
+This approach is very useful when you want to reduce the space complexity to constant but the state of time complexity still remains arbitrary i.e. it would reduce to a large extent or to a small extent.
+
+An extra data structure can solve some problems with better time complexity but space complexity is increased which is a problem that could be addressed using this approach.
+
+Usage:
+Two pointer approach can be used when you want to process two elements in a single iteration or determine a type of pattern. 
+
+Example: Detecting loop in a linked list, checking palindrome in arrays, strings, and linked list, reversing a string or a linked list, two sum problem, finding the middle of a linked list, etc.
+
+Leetcode Questions based on the two pointers approach:-
+
+167. Two Sum II - Input Array Is Sorted
+Link:https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
+
+
+
