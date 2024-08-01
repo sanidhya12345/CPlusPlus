@@ -1,0 +1,8 @@
+1.Sliding Window Technique
+2.Subset Pattern
+3.Modified Binary Search
+4.Top K elements
+5.Binary Tree DFS
+6.Topological Sorting
+7.Binary Tree BFS
+8.Two Pointers
